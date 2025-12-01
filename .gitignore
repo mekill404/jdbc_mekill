@@ -1,0 +1,12 @@
+# Ignore IDE specific files
+.idea/
+*.iml
+conf.properties
+# Ignore build output
+/build/
+/dist/
+# Ignore log files
+*.log
+# Ignore temporary files
+*.tmp
+*.swp
