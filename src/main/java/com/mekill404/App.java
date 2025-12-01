@@ -11,7 +11,6 @@ public class App
   {
     Properties properties = new Properties();
     
-
     try(FileInputStream fis = new FileInputStream("conf.properties")) {
       properties.load(fis);
     }
