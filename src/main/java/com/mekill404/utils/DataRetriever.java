@@ -1,4 +1,4 @@
-package com.mekill404;
+package com.mekill404.utils;
 
 import java.time.Instant;
 import java.sql.*;
