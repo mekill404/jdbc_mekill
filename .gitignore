@@ -10,3 +10,5 @@ conf.properties
 # Ignore temporary files
 *.tmp
 *.swp
+
+*.class
