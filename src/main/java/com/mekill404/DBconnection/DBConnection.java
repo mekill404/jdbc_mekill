@@ -25,5 +25,4 @@ public class DBConnection
   {
     return DriverManager.getConnection(JDBC_URL, USER, PASSWORD);
   }
-
 }
